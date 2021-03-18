@@ -1,0 +1,25 @@
+body {
+    background-color: #fdfdfd;
+}
+
+.content {
+    height: 50px;
+}
+
+.inputform {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-field {
+    width: 800px;
+    height: 200px;
+}
+
+.ques-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
